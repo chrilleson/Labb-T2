@@ -1,0 +1,11 @@
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\bin\Debug\netcoreapp2.0\LabbT2Test.deps.json
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\bin\Debug\netcoreapp2.0\LabbT2Test.runtimeconfig.json
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\bin\Debug\netcoreapp2.0\LabbT2Test.runtimeconfig.dev.json
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\bin\Debug\netcoreapp2.0\LabbT2Test.dll
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\obj\Debug\netcoreapp2.0\LabbT2Test.csprojAssemblyReference.cache
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\obj\Debug\netcoreapp2.0\LabbT2Test.csproj.CoreCompileInputs.cache
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\obj\Debug\netcoreapp2.0\LabbT2Test.AssemblyInfoInputs.cache
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\LabbT2Test\obj\Debug\netcoreapp2.0\LabbT2Test.AssemblyInfo.cs

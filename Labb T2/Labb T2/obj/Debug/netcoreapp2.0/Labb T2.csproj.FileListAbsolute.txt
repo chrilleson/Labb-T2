@@ -1,0 +1,11 @@
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\bin\Debug\netcoreapp2.0\Labb T2.deps.json
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\bin\Debug\netcoreapp2.0\Labb T2.runtimeconfig.json
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\bin\Debug\netcoreapp2.0\Labb T2.runtimeconfig.dev.json
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\bin\Debug\netcoreapp2.0\Labb T2.dll
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\obj\Debug\netcoreapp2.0\Labb T2.csprojAssemblyReference.cache
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\obj\Debug\netcoreapp2.0\Labb T2.csproj.CoreCompileInputs.cache
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\obj\Debug\netcoreapp2.0\Labb T2.AssemblyInfoInputs.cache
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\obj\Debug\netcoreapp2.0\Labb T2.AssemblyInfo.cs
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\bin\Debug\netcoreapp2.0\Labb T2.pdb
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\obj\Debug\netcoreapp2.0\Labb T2.dll
+C:\Users\Christoffer\source\repos\Labb T2\Labb T2\Labb T2\obj\Debug\netcoreapp2.0\Labb T2.pdb
