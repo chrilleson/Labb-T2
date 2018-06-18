@@ -1,39 +1,40 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System;
+﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Labb_T2.Models;
 
 namespace Labb_T2.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
+    [Produces("application/json")]
+    [Route("api/ProductAPI")]
     public class ProductAPIController : Controller
     {
-            private readonly IApiRequestSend<Product> requestSend;
+        private readonly IApiRequestSend<Product> ApiRequestSend;
 
-            public ProductAPIController(IApiRequestSend<Product> requestSend)
-            {
-                this.requestSend = requestSend;
-            }
+        public ProductAPIController(IApiRequestSend<Product> apiRequestSend)
+        {
+            ApiRequestSend = apiRequestSend;
+        }
 
-            public virtual IEnumerable<Product> GetAllProducts()
-            {
-                return requestSend.GetAllData();
-            }
+        public void AddProduct(Product product)
+        {
+            ApiRequestSend.AddEntity(product);
+        }
 
-            public void AddNewProduct(Product product)
-            {
-                requestSend.AddEntity(product);
-            }
+        public void EditProduct(int id, Product product)
+        {
+            ApiRequestSend.ModifyEntity(id, product);
+        }
 
-            public void EditProduct(int id, Product product)
-            {
-                requestSend.ModifyEntity(id, product);
-            }
+        public void DeleteProduct(Product product)
+        {
+            ApiRequestSend.DeleteEntity(product);
+        }
 
-            public void DeleteProduct(Product product)
-            {
-                requestSend.DeleteEntity(product);
-            }
+        public void GetAllData() => ApiRequestSend.GetAllData();
     }
 }

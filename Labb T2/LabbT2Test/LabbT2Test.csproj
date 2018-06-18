@@ -14,4 +14,8 @@
     <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Labb T2\Labb_T2.csproj" />
+  </ItemGroup>
+
 </Project>

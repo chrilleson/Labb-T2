@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb T2", "Labb T2\Labb T2.csproj", "{9247D9BE-65BA-402B-82AC-CE305318FEC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labb_T2", "Labb T2\Labb_T2.csproj", "{9247D9BE-65BA-402B-82AC-CE305318FEC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabbT2Test", "LabbT2Test\LabbT2Test.csproj", "{2EC2804F-2793-4231-AD41-356CC5BB7C21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LabbT2Test", "LabbT2Test\LabbT2Test.csproj", "{2EC2804F-2793-4231-AD41-356CC5BB7C21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
