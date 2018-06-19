@@ -27,7 +27,7 @@ namespace Labb_T2.Controllers
 
         public void EditProduct(int id, Product product)
         {
-            ApiRequestSend.ModifyEntity(id, product);
+            ApiRequestSend.EditEntity(id, product);
         }
 
         public void DeleteProduct(Product product)

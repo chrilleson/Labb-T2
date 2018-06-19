@@ -9,7 +9,7 @@ namespace Labb_T2.Models
     {
         IEnumerable<T> GetAllData();
         void AddEntity(T entity);
-        void ModifyEntity(int id, T entity);
+        void EditEntity(int id, T entity);
         void DeleteEntity(T entity);
     }
 }
